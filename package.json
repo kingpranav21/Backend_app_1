@@ -1,0 +1,15 @@
+{
+  "name": "backend-youtube",
+  "version": "1.0.0",
+  "description": "backend model for new application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Pranav Ahuja",
+  "license": "ISC"
+}
